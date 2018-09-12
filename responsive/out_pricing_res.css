@@ -1,0 +1,20 @@
+
+@media (min-width: 768px) {
+	.our_pricing .col-md-3 {
+		flex: 0 0 41%;
+		max-width: 41%;
+	}
+}
+
+@media (min-width: 992px) {
+	.our_pricing .col-lg-4 {
+		flex: 0 0 30%;
+		max-width: 33.333333%;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	.our_pricing .col-xl-4 {
+		flex: 0 0 27%;
+	}
+}

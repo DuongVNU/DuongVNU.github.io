@@ -1,0 +1,29 @@
+@import "./../responsive/our_service_res.css";
+
+.our_service {
+	position: relative;
+}
+
+.our_service .background {
+	width: 100%;
+	margin-top: -100px;
+}
+
+.our_service .row {
+	position: absolute;
+	top: 5vw;
+	left: 6%;
+}
+
+.our_service .row .icon {
+	position: absolute;
+	width: 76px;
+}
+
+.our_service .row .title {
+	width: 74%;
+	font-weight: bold;
+	font-size: 19px;
+	margin-bottom: 15px;
+	font-family: vani, serif
+}
