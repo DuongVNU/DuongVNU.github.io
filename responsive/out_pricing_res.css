@@ -1,3 +1,13 @@
+@media (max-width: 576px) {
+	.our_pricing .col-12 {
+		flex: 0 0 76%;
+		max-width: 100%;
+		margin-bottom: 10px;
+	}
+	.offset{
+		margin-left: 12.33333333%;
+	}
+}
 
 @media (min-width: 768px) {
 	.our_pricing .col-md-3 {
